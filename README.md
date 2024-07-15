@@ -48,3 +48,6 @@ npm install
 ```
 npm run test
 ```
+
+<img width="437" alt="image" src="https://github.com/user-attachments/assets/3e832127-7a74-413e-81d2-22c71b50d3ff">
+
